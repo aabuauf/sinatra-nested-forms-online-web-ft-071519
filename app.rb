@@ -27,3 +27,4 @@ end
 
 # <h3><%= @pirates.weight %></h3>
 # <h3><%= @pirates.height %></h3>
+
