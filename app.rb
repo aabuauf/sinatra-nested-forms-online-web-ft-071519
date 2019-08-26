@@ -19,7 +19,7 @@ module FormsLab
       Ship.new(details)
     end
     
-    binding.pry
+    
     erb :'pirates/show'
   end
   end
