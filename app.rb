@@ -20,7 +20,7 @@ module FormsLab
     end
     
     
-  
+    
     erb :'pirates/show'
   end
   end
