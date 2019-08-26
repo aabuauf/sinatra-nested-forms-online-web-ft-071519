@@ -20,3 +20,10 @@ module FormsLab
   end
   end
 end
+
+# <h3><%= @pirates.ships[1].name %></h3>
+# <h3><%= @pirates.ships[1].type %></h3>
+# <h3><%= @pirates.ships[1].booty %></h3>
+
+# <h3><%= @pirates.weight %></h3>
+# <h3><%= @pirates.height %></h3>
