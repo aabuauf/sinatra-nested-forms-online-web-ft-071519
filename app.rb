@@ -27,4 +27,6 @@ end
 
 # <h3><%= @pirates.weight %></h3>
 # <h3><%= @pirates.height %></h3>
-
+# <h3><%= @pirates.ships[0].name %></h3>
+# <h3><%= @pirates.ships[0].type %></h3>
+# <h3><%= @pirates.ships[0].booty %></h3>
